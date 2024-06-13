@@ -150,10 +150,10 @@
 <wire x1="24.892" y1="19.05" x2="22.352" y2="21.59" width="0" layer="20" curve="90"/>
 <wire x1="22.352" y1="21.59" x2="2.54" y2="21.59" width="0" layer="20"/>
 <wire x1="2.54" y1="21.59" x2="0" y2="19.05" width="0" layer="20" curve="90"/>
-<hole x="2.54" y="2.54" drill="2.8"/>
-<hole x="2.54" y="19.05" drill="2.8"/>
-<hole x="22.098" y="19.05" drill="2.8"/>
-<hole x="22.098" y="2.54" drill="2.8"/>
+<hole x="2.54" y="2.54" drill="2.2"/>
+<hole x="2.54" y="19.05" drill="2.2"/>
+<hole x="22.098" y="19.05" drill="2.2"/>
+<hole x="22.098" y="2.54" drill="2.2"/>
 <text x="8.89" y="2.54" size="0.8128" layer="25" font="vector" ratio="10">bot-thoughts.com</text>
 <text x="8.89" y="1.016" size="0.8128" layer="25" font="vector" ratio="10">Inverting Supply</text>
 <text x="10.668" y="9.906" size="1.016" layer="26" font="vector" ratio="10" rot="MR0">IN
